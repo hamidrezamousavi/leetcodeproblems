@@ -51,5 +51,5 @@ int main(){
   cout << obj->top()<<endl;
   cout << obj->getMin();
   return 0;
-  
+ 
 }
